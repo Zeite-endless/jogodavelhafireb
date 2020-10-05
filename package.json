@@ -3,12 +3,8 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "ng": "ng",
-    "start": "node index.js",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
-    "e2e": "ng e2e"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "engines": {
     "node": "v12.18.4",
